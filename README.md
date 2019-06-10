@@ -1,5 +1,9 @@
 ## Монетизация с использованием Open Source Software
 
+> It will eventually become clear to everybody that far more money is being made because of open source than with open source. This is what we have to remember every time somebody asks, "How can you make money with open source product?" The answer is, "You don't make money with it. You make money because of it."
+>
+> Open Sources 2.0 by Chris DiBona; Mark Stone; Danese Cooper
+
 1. **Разные лицензии.** Бесплатная лицензия для одних категорий пользователей и платная для других. Пример: MySQL.
 2. **Бесплатный базовый уровень.** Бесплатная лицензия на базовый продукт. Продажа дополнений, корпоративных конфигураций. Пример: Hadoop.
 3. **Продажа профессиональных услуг.** Сам код распространяется бесплатно, но пользователи могут покупать обучение, техническую поддержку или консалтинг. Пример: Red Hat, Laravel, Symfony, Drupal.
