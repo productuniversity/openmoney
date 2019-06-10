@@ -17,7 +17,7 @@
 11. **Отложенное обновление открытой лицензии.** Новые версии становятся открытым кодом через некоторое время. Пример: MariaDB.
 12. **Найти новую интересную работу, которую тебе предложат за доказанный опыт.** В идеале еще и продолжить заниматься тем же самым. Пример: React, Angular.
 
-## Компании с выручкой от $100M/год, основанные на Open Source Software
+## Коммерческие компании с выручкой от $100M/год, основанные на Open Source Software
 
 Список составлен Joseph Jacks из [OSS Capital](https://oss.capital): посмотреть [список в Google Sheets](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0).
 
