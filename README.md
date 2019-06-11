@@ -23,6 +23,10 @@
 
 Список составлен Joseph Jacks из [OSS Capital](https://oss.capital): посмотреть [список в Google Sheets](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0).
 
+## Как научиться создавать Open Source продукты?
+
+14 июля начинается программа «[Продуктовая разработка](https://github.com/productuniversity/productuniversity.github.io)» в Product University.
+
 ## Исправления или добавления?
 
 Вы знаете, как это сделать.
