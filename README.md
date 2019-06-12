@@ -25,7 +25,7 @@
 
 ## Как научиться создавать из кода продукт?
 
-14 июля начинается программа «[Продуктовая разработка](https://github.com/productuniversity/productuniversity.github.io)» в Product University.
+14 июля начинается программа «[Продуктовая разработка](https://productuniversity.github.io)» в Product University.
 
 ## Исправления или добавления?
 
